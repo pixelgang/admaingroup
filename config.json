@@ -1,0 +1,39 @@
+﻿{
+	"id": "com.pixelgang.hand",
+	"version": "1.0",
+	"name": "Ad Main Group",
+	"description": "Main Group",
+	"author": "tas",
+	"email": "tas@aol.com",
+	"website": "http://tas.com",
+	"fullscreen": "false",
+	"useragent": null,
+	"orientation": "portrait",
+	"icons": [{
+		"src": "www/icon-256.png",
+		"width": 256,
+		"height": 256,
+		"density": "xxxhdpi"
+	}, {
+		"src": "www/icon-128.png",
+		"width": 128,
+		"height": 128,
+		"density": "xhdpi"
+	}],
+	"plugins": [
+		{ "id": "com-artemisoftnian-plugins-unityads2", "version": null },
+		{ "id": "cordova-plugin-ad-admob", "version": null },
+		{ "id": "cordova-plugin-whitelist", "version": null },
+		{ "id": "https://github.com/cranberrygame/com.cranberrygame.phonegap.plugin.ad.leadbolt#7f64ba524655502db002e644f3485942f3e2875c", "version": null },
+		{ "id": "https://github.com/spilgames/cordova-chartboost-plugin#59c0e1b6dac1a4dccda5295b984aa1ad2cfd9a4b", "version": null }
+	],
+	"android": {
+		"min": 21,
+		"target": 26,
+		"plugins": []
+	},
+	"ios": {
+		"target": "9.0",
+		"plugins": []
+	}
+}
