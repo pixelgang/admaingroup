@@ -1,4 +1,4 @@
 <intelxdk:plugin intelxdk:name="com-artemisoftnian-plugins-unityads2" intelxdk:value="com-artemisoftnian-plugins-unityads2" />
-<intelxdk:plugin intelxdk:name="cordova-plugin-ad-admob" intelxdk:value="cordova-plugin-ad-admob" />
 <intelxdk:plugin intelxdk:name="https://github.com/cranberrygame/com.cranberrygame.phonegap.plugin.ad.leadbolt#7f64ba524655502db002e644f3485942f3e2875c" intelxdk:value="https://github.com/cranberrygame/com.cranberrygame.phonegap.plugin.ad.leadbolt#7f64ba524655502db002e644f3485942f3e2875c" />
+<intelxdk:plugin intelxdk:name="https://github.com/cranberrygame/cordova-plugin-ad-admob" intelxdk:value="https://github.com/cranberrygame/cordova-plugin-ad-admob" />
 <intelxdk:plugin intelxdk:name="https://github.com/spilgames/cordova-chartboost-plugin#59c0e1b6dac1a4dccda5295b984aa1ad2cfd9a4b" intelxdk:value="https://github.com/spilgames/cordova-chartboost-plugin#59c0e1b6dac1a4dccda5295b984aa1ad2cfd9a4b" />
