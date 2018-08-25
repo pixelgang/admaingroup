@@ -23,7 +23,7 @@
 	<plugin name="cordova-plugin-ad-admob" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="https://github.com/cranberrygame/com.cranberrygame.phonegap.plugin.ad.leadbolt#7f64ba524655502db002e644f3485942f3e2875c" />
-	<plugin name="https://github.com/spilgames/cordova-chartboost-plugin#59c0e1b6dac1a4dccda5295b984aa1ad2cfd9a4b" />
+	
 
 
 	<engine name="ios" />
