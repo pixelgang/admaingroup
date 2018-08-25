@@ -15,6 +15,7 @@
 	<preference name="AllowInlineMediaPlayback" value="true" />
 
 	<preference name="deployment-target" value="9.0" />
+	<preference name="phonegap-version" value="cli-8.0.0" />
 	<preference name="android-minSdkVersion" value="21" />
 	<access origin="*" />
 
